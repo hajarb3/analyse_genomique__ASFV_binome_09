@@ -1,0 +1,258 @@
+IQ-TREE 2.4.0 built Feb  7 2025
+
+Input file name: C:\Users\hajar\OneDrive\Desktop\arbre_épidémio\ASFV_genomic_analyses_simulated_dataset_1-3.fas
+Type of analysis: ModelFinder + tree reconstruction
+Random seed number: 587383
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587â€“589.
+https://doi.org/10.1038/nmeth.4285
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 200 sequences with 190000 nucleotide sites
+Number of constant sites: 189959 (= 99.9784% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 189959 (= 99.9784% of all sites)
+Number of parsimony informative sites: 15
+Number of distinct site patterns: 45
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: JC
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+JC              -263979.662  528173.324 +   0.0938  528173.446 +    0.094  529259.885 +    0.984
+K2P             -263977.729  528171.458 +    0.238  528171.582 +    0.239  529268.174 -   0.0156
+TPM3            -263977.358  528172.716 +    0.127  528172.842 +    0.127  529279.587 - 5.19e-005
+TNe             -263977.475  528172.950 +    0.113  528173.076 +    0.113  529279.821 - 4.61e-005
+TPM2            -263977.624  528173.249 +   0.0973  528173.375 +   0.0973  529280.120 - 3.97e-005
+K3P             -263977.715  528173.430 +   0.0889  528173.556 +   0.0889  529280.301 - 3.63e-005
+TIM3e           -263977.098  528174.197 +   0.0606  528174.325 +   0.0605  529291.222 - 1.54e-007
+TIM2e           -263977.339  528174.679 -   0.0476  528174.807 -   0.0476  529291.705 - 1.21e-007
+TIMe            -263977.460  528174.921 -   0.0422  528175.050 -   0.0421  529291.947 - 1.07e-007
+F81+F           -263979.378  528178.757 -   0.0062  528178.885 -  0.00619  529295.783 - 1.58e-008
+TVMe            -263977.178  528176.356 -   0.0206  528176.487 -   0.0205  529303.536 - 3.27e-010
+HKY+F           -263977.445  528176.891 -   0.0158  528177.022 -   0.0157  529304.071 - 2.5e-010
+SYM             -263976.924  528177.848 -  0.00976  528177.982 -  0.00973  529315.184 - 9.66e-013
+TPM3u+F         -263977.082  528178.165 -  0.00833  528178.298 -   0.0083  529315.500 - 8.25e-013
+TN+F            -263977.191  528178.382 -  0.00747  528178.516 -  0.00745  529315.717 - 7.4e-013
+TPM2u+F         -263977.393  528178.786 -  0.00611  528178.920 -  0.00609  529316.121 - 6.05e-013
+K3Pu+F          -263977.432  528178.864 -  0.00587  528178.998 -  0.00585  529316.200 - 5.82e-013
+TIM3+F          -263976.819  528179.639 -  0.00399  528179.774 -  0.00397  529327.129 - 2.46e-015
+TIM2+F          -263977.163  528180.326 -  0.00283  528180.462 -  0.00281  529327.816 - 1.75e-015
+TIM+F           -263977.179  528180.358 -  0.00278  528180.494 -  0.00277  529327.848 - 1.72e-015
+TVM+F           -263976.893  528181.787 -  0.00136  528181.925 -  0.00135  529339.431 - 5.25e-018
+GTR+F           -263981.341  528192.683 - 5.87e-006  528192.823 - 5.82e-006  529360.482 - 1.41e-022
+GTR+F+G4        -263981.333  528194.666 - 2.18e-006  528194.809 - 2.16e-006  529372.620 - 3.26e-025
+GTR+F+I         -263981.337  528194.674 - 2.17e-006  528194.817 - 2.15e-006  529372.629 - 3.24e-025
+GTR+F+R2        -263976.653  528187.306 - 8.62e-005  528187.452 - 8.54e-005  529375.415 - 8.05e-026
+GTR+F+I+G4      -263981.333  528196.666 -   8e-007  528196.812 - 7.93e-007  529384.776 - 7.47e-028
+GTR+F+I+R2      -263976.643  528189.286 - 3.21e-005  528189.434 - 3.17e-005  529387.550 - 1.87e-028
+GTR+F+R3        -263976.639  528191.277 - 1.18e-005  528191.428 - 1.17e-005  529399.696 - 4.3e-031
+GTR+F+I+R3      -263976.643  528193.285 - 4.34e-006  528193.438 - 4.28e-006  529411.859 - 9.83e-034
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JC
+
+Rate parameter R:
+
+  A-C: 1.0000
+  A-G: 1.0000
+  A-T: 1.0000
+  C-G: 1.0000
+  C-T: 1.0000
+  G-T: 1.0000
+
+State frequencies: (equal frequencies)
+
+Rate matrix Q:
+
+  A        -1    0.3333    0.3333    0.3333
+  C    0.3333        -1    0.3333    0.3333
+  G    0.3333    0.3333        -1    0.3333
+  T    0.3333    0.3333    0.3333        -1
+
+Model of rate heterogeneity: Uniform
+
+TREE USED FOR ModelFinder
+-------------------------
+
+Log-likelihood of the tree: -263979.6619 (s.e. 84.7658)
+Unconstrained log-likelihood (without tree): -263878.1439
+Number of free parameters (#branches + #model parameters): 107
+Akaike information criterion (AIC) score: 528173.3239
+Corrected Akaike information criterion (AICc) score: 528173.4456
+Bayesian information criterion (BIC) score: 529259.8853
+
+Total tree length (sum of branch lengths): 0.0002
+Sum of internal branch lengths: 0.0000 (9.6673% of tree length)
+
+WARNING: 51 near-zero internal branches (<0.0000) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'H-1' is drawn at root
+
++**H-1
+|
+|                                                        +**H-68
+|                                                     +**|
+|                                                     |  |  +*******************H-4706
+|                                                     |  +**|
+|                                                     |     |                      +**H-745
+|                                                     |     |  +*******************|
+|                                                     |     |  |                   |  +**H-4812
+|                                                     |     |  |                   +**|
+|                                                     |     |  |                      +*******************H-3162
+|                                                     |     +**|
+|                                                     |        |                            +**H-258
+|                                                     |        |                         +**|
+|                                                     |        |                         |  |           +*******************H-2852
+|                                                     |        |                         |  |        +**|
+|                                                     |        |                         |  |        |  +*******************H-4081
+|                                                     |        |                         |  |     +**|
+|                                                     |        |                         |  |     |  |                   +**H-1189
+|                                                     |        |                         |  |     |  +*******************|
+|                                                     |        |                         |  |     |                      +**H-2704
+|                                                     |        |                         |  |  +**|
+|                                                     |        |                         |  |  |  |                   +**H-4498
+|                                                     |        |                         |  |  |  +*******************|
+|                                                     |        |                         |  |  |                      +**H-1724
+|                                                     |        |                         |  +**|
+|                                                     |        |                         |     +*******************H-2707
+|                                                     |        |                      +**|
+|                                                     |        |                      |  +*******************H-1341
+|                                                     |        |                   +**|
+|                                                     |        |                   |  +*******************H-2406
+|                                                     |        +*******************|
+|                                                     |                            +**H-2241
+|                                                  +**|
+|                                                  |  |                   +**H-560
+|                                                  |  +*******************|
+|                                                  |                      +**H-5066
+|                                               +**|
+|                                               |  +*******************H-1995
+|                                            +**|
+|                                            |  |                   +**H-3164
+|                                            |  +*******************|
+|                                            |                      +**H-3887
+|                                         +**|
+|                                         |  |                      +*******************H-939
+|                                         |  |                   +**|
+|                                         |  |                   |  |                      +**H-1238
+|                                         |  |                   |  |  +*******************|
+|                                         |  |                   |  |  |                   +**H-2302
+|                                         |  |                   |  +**|
+|                                         |  |                   |     +**H-5358
+|                                         |  +*******************|
+|                                         |                      +**H-2583
+|                                      +**|
+|                                      |  +*******************H-2559
+|                                   +**|
+|                                   |  +*******************H-2407
+|                                +**|
+|                                |  +*******************H-333
+|                             +**|
+|                             |  +*******************H-2994
+|                          +**|
+|                          |  +*******************H-3701
+|                       +**|
+|                       |  +*******************H-1101
+|                    +**|
+|                    |  |                   +**H-437
+|                    |  +*******************|
+|                    |                      +**H-672
+|                 +**|
+|                 |  +*******************H-5098
+|              +**|
+|              |  |                   +**H-1285
+|              |  +*******************|
+|              |                      +**H-1310
+|           +**|
+|           |  +*******************H-4621
+|        +**|
+|        |  |                   +**H-2546
+|        |  +*******************|
+|        |                      +**H-1452
+|     +**|
+|     |  +*******************H-2814
+|  +**|
+|  |  +*******************H-4230
++**|
+|  |                                         +**H-1910
+|  +-----------------------------------------|
+|                                            +**H-3819
+|
+|              +*******************H-613
+|           +**|
+|           |  |                         +**H-1581
+|           |  |     +*******************|
+|           |  |     |                   +**H-4302
+|           |  |  +**|
+|           |  |  |  |                   +**H-1897
+|           |  |  |  +*******************|
+|           |  |  |                      +**H-4150
+|           |  +**|
+|           |     +*******************H-2204
+|        +**|
+|        |  +*******************H-4405
+|     +**|
+|     |  +*******************H-3345
+|  +**|
+|  |  +-----------------------------------------H-3329
++**|
+   +*******************H-2403
+
+Tree in newick format:
+
+(H-1:0.0000001595,(((((((((((((((((((H-68:0.0000001595,(H-4706:0.0000049828,((H-745:0.0000001595,(H-4812:0.0000001595,H-3162:0.0000049828):0.0000001595):0.0000049828,((((H-258:0.0000001595,((((H-2852:0.0000049828,H-4081:0.0000049828):0.0000001595,(H-1189:0.0000001595,H-2704:0.0000001595):0.0000049828):0.0000001595,(H-4498:0.0000001595,H-1724:0.0000001595):0.0000049828):0.0000001595,H-2707:0.0000049828):0.0000001595):0.0000001595,H-1341:0.0000049828):0.0000001595,H-2406:0.0000049828):0.0000001595,H-2241:0.0000001595):0.0000049828):0.0000001595):0.0000001595):0.0000001595,(H-560:0.0000001595,H-5066:0.0000001595):0.0000049828):0.0000001595,H-1995:0.0000049828):0.0000001595,(H-3164:0.0000001595,H-3887:0.0000001595):0.0000049828):0.0000001595,((H-939:0.0000049828,((H-1238:0.0000001595,H-2302:0.0000001595):0.0000049829,H-5358:0.0000001595):0.0000001595):0.0000001595,H-2583:0.0000001595):0.0000049828):0.0000001595,H-2559:0.0000049828):0.0000001595,H-2407:0.0000049828):0.0000001595,H-333:0.0000049828):0.0000001595,H-2994:0.0000049828):0.0000001595,H-3701:0.0000049828):0.0000001595,H-1101:0.0000049828):0.0000001595,(H-437:0.0000001595,H-672:0.0000001595):0.0000049829):0.0000001595,H-5098:0.0000049828):0.0000001595,(H-1285:0.0000001595,H-1310:0.0000001595):0.0000049828):0.0000001595,H-4621:0.0000049828):0.0000001595,(H-2546:0.0000001595,H-1452:0.0000001595):0.0000049828):0.0000001595,H-2814:0.0000049828):0.0000001595,H-4230:0.0000049828):0.0000001595,(H-1910:0.0000001595,H-3819:0.0000001595):0.0000102393):0.0000001595,(((((H-613:0.0000049828,(((H-1581:0.0000001595,H-4302:0.0000001595):0.0000049828,(H-1897:0.0000001595,H-4150:0.0000001595):0.0000049828):0.0000001595,H-2204:0.0000049828):0.0000001595):0.0000001595,H-4405:0.0000049828):0.0000001595,H-3345:0.0000049828):0.0000001595,H-3329:0.0000102392):0.0000001595,H-2403:0.0000049828):0.0000001595);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t C:\Users\hajar\OneDrive\Desktop\arbre_épidémio\ASFV_genomic_analyses_simulated_dataset_1-3.fas.treefile -m "JC" --length 190000
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s C:\Users\hajar\OneDrive\Desktop\arbre_épidémio\ASFV_genomic_analyses_simulated_dataset_1-3.fas --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s C:\Users\hajar\OneDrive\Desktop\arbre_épidémio\ASFV_genomic_analyses_simulated_dataset_1-3.fas --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sun May 17 13:39:38 2026
+Total CPU time used: 0.4375 seconds (0h:0m:0s)
+Total wall-clock time used: 0.9338504 seconds (0h:0m:0s)
+

@@ -1,0 +1,893 @@
+Results of file C:\Users\hajar\ULB\MA1\épidémio\Binome_09\alignement_mutations.rdf with Epsilon=0
+Criterion for generated median vectors : Connection cost.
+with weighting transversions/transitions: 1/1
+
+Equivalent taxa : 
+
+Tax.      1 with tax.      2
+Tax.      1 with tax.      4
+Tax.      1 with tax.     11
+Tax.      1 with tax.     12
+Tax.      1 with tax.     13
+Tax.      1 with tax.     16
+Tax.      1 with tax.     17
+Tax.      1 with tax.     18
+Tax.      1 with tax.     19
+Tax.      1 with tax.     20
+Tax.      1 with tax.     21
+Tax.      1 with tax.     22
+Tax.      1 with tax.     23
+Tax.      1 with tax.     24
+Tax.      1 with tax.     25
+Tax.      1 with tax.     26
+Tax.      1 with tax.     33
+Tax.      1 with tax.     34
+Tax.      1 with tax.     35
+Tax.      1 with tax.     36
+Tax.      1 with tax.     37
+Tax.      1 with tax.     38
+Tax.      1 with tax.     39
+Tax.      1 with tax.     40
+Tax.      1 with tax.     41
+Tax.      1 with tax.     42
+Tax.      1 with tax.     51
+Tax.      1 with tax.     52
+Tax.      1 with tax.     53
+Tax.      1 with tax.     54
+Tax.      1 with tax.     55
+Tax.      1 with tax.     56
+Tax.      1 with tax.     57
+Tax.      1 with tax.     59
+Tax.      1 with tax.     60
+Tax.      1 with tax.     61
+Tax.      1 with tax.     63
+Tax.      1 with tax.     64
+Tax.      1 with tax.     65
+Tax.      1 with tax.     68
+Tax.      1 with tax.     69
+Tax.      1 with tax.     70
+Tax.      1 with tax.     72
+Tax.      1 with tax.     73
+Tax.      1 with tax.     76
+Tax.      1 with tax.     77
+Tax.      1 with tax.     78
+Tax.      1 with tax.     79
+Tax.      1 with tax.     80
+Tax.      1 with tax.     81
+Tax.      1 with tax.     83
+Tax.      1 with tax.     84
+Tax.      1 with tax.     85
+Tax.      1 with tax.     86
+Tax.      1 with tax.     87
+Tax.      1 with tax.     88
+Tax.      1 with tax.     89
+Tax.      1 with tax.     90
+Tax.      1 with tax.     91
+Tax.      1 with tax.     92
+Tax.      1 with tax.     93
+Tax.      1 with tax.     94
+Tax.      1 with tax.     95
+Tax.      1 with tax.     97
+Tax.      1 with tax.     98
+Tax.      1 with tax.     99
+Tax.      1 with tax.    100
+Tax.      1 with tax.    103
+Tax.      1 with tax.    104
+Tax.      1 with tax.    107
+Tax.      1 with tax.    108
+Tax.      1 with tax.    110
+Tax.      1 with tax.    112
+Tax.      1 with tax.    113
+Tax.      1 with tax.    114
+Tax.      1 with tax.    115
+Tax.      1 with tax.    116
+Tax.      1 with tax.    118
+Tax.      1 with tax.    120
+Tax.      1 with tax.    121
+Tax.      1 with tax.    122
+Tax.      1 with tax.    125
+Tax.      1 with tax.    129
+Tax.      1 with tax.    131
+Tax.      1 with tax.    132
+Tax.      1 with tax.    133
+Tax.      1 with tax.    137
+Tax.      1 with tax.    194
+Tax.      1 with tax.    195
+Tax.      1 with tax.    196
+Tax.      1 with tax.    197
+Tax.      1 with tax.    198
+Tax.      1 with tax.    199
+Tax.      1 with tax.    200
+Tax.      5 with tax.      6
+Tax.      5 with tax.      7
+Tax.      5 with tax.      8
+Tax.      5 with tax.      9
+Tax.      5 with tax.     10
+Tax.     27 with tax.     28
+Tax.     27 with tax.     29
+Tax.     27 with tax.     30
+Tax.     27 with tax.     31
+Tax.     27 with tax.     32
+Tax.     45 with tax.     46
+Tax.     47 with tax.     48
+Tax.     47 with tax.     49
+Tax.     47 with tax.     50
+Tax.     66 with tax.     67
+Tax.     74 with tax.     75
+Tax.    101 with tax.    102
+Tax.    105 with tax.    106
+Tax.    127 with tax.    128
+Tax.    135 with tax.    136
+Tax.    138 with tax.    139
+Tax.    138 with tax.    141
+Tax.    142 with tax.    143
+Tax.    142 with tax.    144
+Tax.    142 with tax.    145
+Tax.    142 with tax.    146
+Tax.    142 with tax.    147
+Tax.    142 with tax.    148
+Tax.    142 with tax.    149
+Tax.    142 with tax.    150
+Tax.    142 with tax.    152
+Tax.    142 with tax.    153
+Tax.    142 with tax.    155
+Tax.    142 with tax.    156
+Tax.    142 with tax.    157
+Tax.    142 with tax.    158
+Tax.    142 with tax.    159
+Tax.    142 with tax.    160
+Tax.    142 with tax.    162
+Tax.    142 with tax.    163
+Tax.    142 with tax.    171
+Tax.    142 with tax.    172
+Tax.    142 with tax.    173
+Tax.    142 with tax.    174
+Tax.    142 with tax.    175
+Tax.    142 with tax.    176
+Tax.    142 with tax.    177
+Tax.    142 with tax.    178
+Tax.    142 with tax.    179
+Tax.    142 with tax.    180
+Tax.    142 with tax.    184
+Tax.    142 with tax.    185
+Tax.    142 with tax.    186
+Tax.    142 with tax.    187
+Tax.    142 with tax.    189
+Tax.    142 with tax.    190
+Tax.    142 with tax.    192
+Tax.    142 with tax.    193
+Tax.    164 with tax.    165
+Tax.    164 with tax.    166
+Tax.    164 with tax.    167
+Tax.    164 with tax.    168
+Tax.    164 with tax.    169
+Tax.    164 with tax.    170
+Tax.    181 with tax.    182
+Tax.    181 with tax.    183
+
+Final links : 
+
+Link    1 0 Seq.      1 with Seq.      3, mutations at 33     b 
+Link    2 0 Seq.      1 with Seq.      5, mutations at 6      a 
+Link    3 0 Seq.      1 with Seq.     14, mutations at 3      b 
+Link    4 0 Seq.      1 with Seq.     15, mutations at 27     b 
+Link    5 0 Seq.      1 with Seq.     27, mutations at 22     a 
+Link    6 0 Seq.      1 with Seq.     43, mutations at 14     b 40     b 
+Link    7 0 Seq.      1 with Seq.     47, mutations at 37     b 
+Link    8 0 Seq.      1 with Seq.     58, mutations at 23     b 
+Link    9 0 Seq.      1 with Seq.     62, mutations at 4      b 
+Link   10 0 Seq.      1 with Seq.     66, mutations at 28     b 
+Link   11 0 Seq.      1 with Seq.     71, mutations at 18     b 
+Link   12 0 Seq.      1 with Seq.     74, mutations at 9      b 
+Link   13 0 Seq.      1 with Seq.     82, mutations at 1      a 
+Link   14 0 Seq.      1 with Seq.     96, mutations at 39     b 
+Link   15 0 Seq.      1 with Seq.    101, mutations at 13     b 
+Link   16 0 Seq.      1 with Seq.    105, mutations at 10     b 12     b 
+Link   17 0 Seq.      1 with Seq.    109, mutations at 16     b 
+Link   18 0 Seq.      1 with Seq.    111, mutations at 21     b 
+Link   19 0 Seq.      1 with Seq.    117, mutations at 19     b 
+Link   20 0 Seq.      1 with Seq.    119, mutations at 32     b 
+Link   21 0 Seq.      1 with Seq.    123, mutations at 15     b 
+Link   22 0 Seq.      1 with Seq.    124, mutations at 2      a 
+Link   23 0 Seq.      1 with Seq.    126, mutations at 35     a 
+Link   24 0 Seq.      1 with Seq.    127, mutations at 8      b 
+Link   25 0 Seq.      1 with Seq.    130, mutations at 29     b 
+Link   26 0 Seq.      1 with Seq.    134, mutations at 30     b 
+Link   27 0 Seq.      1 with Seq.    135, mutations at 11     b 
+Link   28 0 Seq.      1 with Seq.    138, mutations at 31     b 
+Link   29 0 Seq.      1 with Seq.    142, mutations at 5      b 
+Link   30 0 Seq.     44 with Seq.     47, mutations at 26     b 
+Link   31 0 Seq.     45 with Seq.     47, mutations at 38     a 
+Link   32 0 Seq.    138 with Seq.    140, mutations at 20     a 
+Link   33 0 Seq.    142 with Seq.    151, mutations at 36     b 
+Link   34 0 Seq.    142 with Seq.    154, mutations at 7      b 
+Link   35 0 Seq.    142 with Seq.    161, mutations at 25     b 
+Link   36 0 Seq.    142 with Seq.    164, mutations at 41     a 
+Link   37 0 Seq.    142 with Seq.    181, mutations at 17     b 
+Link   38 0 Seq.    142 with Seq.    188, mutations at 24     b 
+Link   39 0 Seq.    142 with Seq.    191, mutations at 34     b 
+**************************************************
+Frequ. of taxon        1 :    1
+Frequ. of taxon        2 :    1
+Frequ. of taxon        3 :    1
+Frequ. of taxon        4 :    1
+Frequ. of taxon        5 :    1
+Frequ. of taxon        6 :    1
+Frequ. of taxon        7 :    1
+Frequ. of taxon        8 :    1
+Frequ. of taxon        9 :    1
+Frequ. of taxon       10 :    1
+Frequ. of taxon       11 :    1
+Frequ. of taxon       12 :    1
+Frequ. of taxon       13 :    1
+Frequ. of taxon       14 :    1
+Frequ. of taxon       15 :    1
+Frequ. of taxon       16 :    1
+Frequ. of taxon       17 :    1
+Frequ. of taxon       18 :    1
+Frequ. of taxon       19 :    1
+Frequ. of taxon       20 :    1
+Frequ. of taxon       21 :    1
+Frequ. of taxon       22 :    1
+Frequ. of taxon       23 :    1
+Frequ. of taxon       24 :    1
+Frequ. of taxon       25 :    1
+Frequ. of taxon       26 :    1
+Frequ. of taxon       27 :    1
+Frequ. of taxon       28 :    1
+Frequ. of taxon       29 :    1
+Frequ. of taxon       30 :    1
+Frequ. of taxon       31 :    1
+Frequ. of taxon       32 :    1
+Frequ. of taxon       33 :    1
+Frequ. of taxon       34 :    1
+Frequ. of taxon       35 :    1
+Frequ. of taxon       36 :    1
+Frequ. of taxon       37 :    1
+Frequ. of taxon       38 :    1
+Frequ. of taxon       39 :    1
+Frequ. of taxon       40 :    1
+Frequ. of taxon       41 :    1
+Frequ. of taxon       42 :    1
+Frequ. of taxon       43 :    1
+Frequ. of taxon       44 :    1
+Frequ. of taxon       45 :    1
+Frequ. of taxon       46 :    1
+Frequ. of taxon       47 :    1
+Frequ. of taxon       48 :    1
+Frequ. of taxon       49 :    1
+Frequ. of taxon       50 :    1
+Frequ. of taxon       51 :    1
+Frequ. of taxon       52 :    1
+Frequ. of taxon       53 :    1
+Frequ. of taxon       54 :    1
+Frequ. of taxon       55 :    1
+Frequ. of taxon       56 :    1
+Frequ. of taxon       57 :    1
+Frequ. of taxon       58 :    1
+Frequ. of taxon       59 :    1
+Frequ. of taxon       60 :    1
+Frequ. of taxon       61 :    1
+Frequ. of taxon       62 :    1
+Frequ. of taxon       63 :    1
+Frequ. of taxon       64 :    1
+Frequ. of taxon       65 :    1
+Frequ. of taxon       66 :    1
+Frequ. of taxon       67 :    1
+Frequ. of taxon       68 :    1
+Frequ. of taxon       69 :    1
+Frequ. of taxon       70 :    1
+Frequ. of taxon       71 :    1
+Frequ. of taxon       72 :    1
+Frequ. of taxon       73 :    1
+Frequ. of taxon       74 :    1
+Frequ. of taxon       75 :    1
+Frequ. of taxon       76 :    1
+Frequ. of taxon       77 :    1
+Frequ. of taxon       78 :    1
+Frequ. of taxon       79 :    1
+Frequ. of taxon       80 :    1
+Frequ. of taxon       81 :    1
+Frequ. of taxon       82 :    1
+Frequ. of taxon       83 :    1
+Frequ. of taxon       84 :    1
+Frequ. of taxon       85 :    1
+Frequ. of taxon       86 :    1
+Frequ. of taxon       87 :    1
+Frequ. of taxon       88 :    1
+Frequ. of taxon       89 :    1
+Frequ. of taxon       90 :    1
+Frequ. of taxon       91 :    1
+Frequ. of taxon       92 :    1
+Frequ. of taxon       93 :    1
+Frequ. of taxon       94 :    1
+Frequ. of taxon       95 :    1
+Frequ. of taxon       96 :    1
+Frequ. of taxon       97 :    1
+Frequ. of taxon       98 :    1
+Frequ. of taxon       99 :    1
+Frequ. of taxon      100 :    1
+Frequ. of taxon      101 :    1
+Frequ. of taxon      102 :    1
+Frequ. of taxon      103 :    1
+Frequ. of taxon      104 :    1
+Frequ. of taxon      105 :    1
+Frequ. of taxon      106 :    1
+Frequ. of taxon      107 :    1
+Frequ. of taxon      108 :    1
+Frequ. of taxon      109 :    1
+Frequ. of taxon      110 :    1
+Frequ. of taxon      111 :    1
+Frequ. of taxon      112 :    1
+Frequ. of taxon      113 :    1
+Frequ. of taxon      114 :    1
+Frequ. of taxon      115 :    1
+Frequ. of taxon      116 :    1
+Frequ. of taxon      117 :    1
+Frequ. of taxon      118 :    1
+Frequ. of taxon      119 :    1
+Frequ. of taxon      120 :    1
+Frequ. of taxon      121 :    1
+Frequ. of taxon      122 :    1
+Frequ. of taxon      123 :    1
+Frequ. of taxon      124 :    1
+Frequ. of taxon      125 :    1
+Frequ. of taxon      126 :    1
+Frequ. of taxon      127 :    1
+Frequ. of taxon      128 :    1
+Frequ. of taxon      129 :    1
+Frequ. of taxon      130 :    1
+Frequ. of taxon      131 :    1
+Frequ. of taxon      132 :    1
+Frequ. of taxon      133 :    1
+Frequ. of taxon      134 :    1
+Frequ. of taxon      135 :    1
+Frequ. of taxon      136 :    1
+Frequ. of taxon      137 :    1
+Frequ. of taxon      138 :    1
+Frequ. of taxon      139 :    1
+Frequ. of taxon      140 :    1
+Frequ. of taxon      141 :    1
+Frequ. of taxon      142 :    1
+Frequ. of taxon      143 :    1
+Frequ. of taxon      144 :    1
+Frequ. of taxon      145 :    1
+Frequ. of taxon      146 :    1
+Frequ. of taxon      147 :    1
+Frequ. of taxon      148 :    1
+Frequ. of taxon      149 :    1
+Frequ. of taxon      150 :    1
+Frequ. of taxon      151 :    1
+Frequ. of taxon      152 :    1
+Frequ. of taxon      153 :    1
+Frequ. of taxon      154 :    1
+Frequ. of taxon      155 :    1
+Frequ. of taxon      156 :    1
+Frequ. of taxon      157 :    1
+Frequ. of taxon      158 :    1
+Frequ. of taxon      159 :    1
+Frequ. of taxon      160 :    1
+Frequ. of taxon      161 :    1
+Frequ. of taxon      162 :    1
+Frequ. of taxon      163 :    1
+Frequ. of taxon      164 :    1
+Frequ. of taxon      165 :    1
+Frequ. of taxon      166 :    1
+Frequ. of taxon      167 :    1
+Frequ. of taxon      168 :    1
+Frequ. of taxon      169 :    1
+Frequ. of taxon      170 :    1
+Frequ. of taxon      171 :    1
+Frequ. of taxon      172 :    1
+Frequ. of taxon      173 :    1
+Frequ. of taxon      174 :    1
+Frequ. of taxon      175 :    1
+Frequ. of taxon      176 :    1
+Frequ. of taxon      177 :    1
+Frequ. of taxon      178 :    1
+Frequ. of taxon      179 :    1
+Frequ. of taxon      180 :    1
+Frequ. of taxon      181 :    1
+Frequ. of taxon      182 :    1
+Frequ. of taxon      183 :    1
+Frequ. of taxon      184 :    1
+Frequ. of taxon      185 :    1
+Frequ. of taxon      186 :    1
+Frequ. of taxon      187 :    1
+Frequ. of taxon      188 :    1
+Frequ. of taxon      189 :    1
+Frequ. of taxon      190 :    1
+Frequ. of taxon      191 :    1
+Frequ. of taxon      192 :    1
+Frequ. of taxon      193 :    1
+Frequ. of taxon      194 :    1
+Frequ. of taxon      195 :    1
+Frequ. of taxon      196 :    1
+Frequ. of taxon      197 :    1
+Frequ. of taxon      198 :    1
+Frequ. of taxon      199 :    1
+Frequ. of taxon      200 :    1
+**************************************************
+Weight of character 1      :  10
+Weight of character 2      :  10
+Weight of character 3      :  10
+Weight of character 4      :  10
+Weight of character 5      :  10
+Weight of character 6      :  10
+Weight of character 7      :  10
+Weight of character 8      :  10
+Weight of character 9      :  10
+Weight of character 10     :  10
+Weight of character 11     :  10
+Weight of character 12     :  10
+Weight of character 13     :  10
+Weight of character 14     :  10
+Weight of character 15     :  10
+Weight of character 16     :  10
+Weight of character 17     :  10
+Weight of character 18     :  10
+Weight of character 19     :  10
+Weight of character 20     :  10
+Weight of character 21     :  10
+Weight of character 22     :  10
+Weight of character 23     :  10
+Weight of character 24     :  10
+Weight of character 25     :  10
+Weight of character 26     :  10
+Weight of character 27     :  10
+Weight of character 28     :  10
+Weight of character 29     :  10
+Weight of character 30     :  10
+Weight of character 31     :  10
+Weight of character 32     :  10
+Weight of character 33     :  10
+Weight of character 34     :  10
+Weight of character 35     :  10
+Weight of character 36     :  10
+Weight of character 37     :  10
+Weight of character 38     :  10
+Weight of character 39     :  10
+Weight of character 40     :  10
+Weight of character 41     :  10
+**************************************************
+Mapping of character;     1;1     
+Mapping of character;     2;2     
+Mapping of character;     3;3     
+Mapping of character;     4;4     
+Mapping of character;     5;5     
+Mapping of character;     6;6     
+Mapping of character;     7;7     
+Mapping of character;     8;8     
+Mapping of character;     9;9     
+Mapping of character;    10;10    
+Mapping of character;    11;11    
+Mapping of character;    12;12    
+Mapping of character;    13;13    
+Mapping of character;    14;14    
+Mapping of character;    15;15    
+Mapping of character;    16;16    
+Mapping of character;    17;17    
+Mapping of character;    18;18    
+Mapping of character;    19;19    
+Mapping of character;    20;20    
+Mapping of character;    21;21    
+Mapping of character;    22;22    
+Mapping of character;    23;23    
+Mapping of character;    24;24    
+Mapping of character;    25;25    
+Mapping of character;    26;26    
+Mapping of character;    27;27    
+Mapping of character;    28;28    
+Mapping of character;    29;29    
+Mapping of character;    30;30    
+Mapping of character;    31;31    
+Mapping of character;    32;32    
+Mapping of character;    33;33    
+Mapping of character;    34;34    
+Mapping of character;    35;35    
+Mapping of character;    36;36    
+Mapping of character;    37;37    
+Mapping of character;    38;38    
+Mapping of character;    39;39    
+Mapping of character;    40;40    
+Mapping of character;    41;41    
+Mapping of taxon;     1;H-1   
+Other information of taxon;     1;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;     2;H-68  
+Other information of taxon;     2;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;     3;H-613 
+Other information of taxon;     3;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;     4;H-2324
+Other information of taxon;     4;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;     5;H-437 
+Other information of taxon;     5;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;     6;H-672 
+Other information of taxon;     6;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;     7;H-2402
+Other information of taxon;     7;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;     8;H-2255
+Other information of taxon;     8;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;     9;H-2294
+Other information of taxon;     9;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    10;H-3278
+Other information of taxon;    10;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    11;H-564 
+Other information of taxon;    11;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    12;H-956 
+Other information of taxon;    12;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    13;H-444 
+Other information of taxon;    13;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    14;H-1995
+Other information of taxon;    14;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    15;H-5098
+Other information of taxon;    15;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    16;H-3346
+Other information of taxon;    16;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    17;H-1136
+Other information of taxon;    17;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    18;H-2443
+Other information of taxon;    18;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    19;H-2125
+Other information of taxon;    19;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    20;H-1886
+Other information of taxon;    20;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    21;H-3146
+Other information of taxon;    21;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    22;H-3016
+Other information of taxon;    22;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    23;H-3133
+Other information of taxon;    23;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    24;H-1430
+Other information of taxon;    24;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    25;H-4504
+Other information of taxon;    25;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    26;H-407 
+Other information of taxon;    26;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    27;H-2546
+Other information of taxon;    27;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    28;H-1452
+Other information of taxon;    28;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    29;H-2049
+Other information of taxon;    29;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    30;H-1180
+Other information of taxon;    30;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    31;H-461 
+Other information of taxon;    31;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    32;H-679 
+Other information of taxon;    32;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    33;H-295 
+Other information of taxon;    33;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    34;H-1408
+Other information of taxon;    34;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    35;H-2004
+Other information of taxon;    35;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    36;H-3195
+Other information of taxon;    36;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    37;H-3605
+Other information of taxon;    37;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    38;H-2595
+Other information of taxon;    38;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    39;H-4640
+Other information of taxon;    39;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    40;H-500 
+Other information of taxon;    40;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    41;H-4020
+Other information of taxon;    41;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    42;H-2081
+Other information of taxon;    42;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    43;H-3329
+Other information of taxon;    43;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    44;H-939 
+Other information of taxon;    44;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    45;H-1238
+Other information of taxon;    45;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    46;H-2302
+Other information of taxon;    46;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    47;H-2583
+Other information of taxon;    47;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    48;H-5358
+Other information of taxon;    48;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    49;H-3208
+Other information of taxon;    49;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    50;H-4173
+Other information of taxon;    50;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    51;H-8   
+Other information of taxon;    51;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    52;H-7   
+Other information of taxon;    52;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    53;H-1635
+Other information of taxon;    53;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    54;H-2664
+Other information of taxon;    54;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    55;H-3762
+Other information of taxon;    55;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    56;H-3581
+Other information of taxon;    56;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    57;H-1387
+Other information of taxon;    57;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    58;H-4621
+Other information of taxon;    58;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    59;H-3193
+Other information of taxon;    59;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    60;H-4419
+Other information of taxon;    60;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    61;H-674 
+Other information of taxon;    61;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    62;H-3345
+Other information of taxon;    62;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    63;H-1627
+Other information of taxon;    63;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    64;H-2420
+Other information of taxon;    64;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    65;H-89  
+Other information of taxon;    65;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    66;H-1581
+Other information of taxon;    66;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    67;H-4302
+Other information of taxon;    67;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    68;H-198 
+Other information of taxon;    68;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    69;H-3742
+Other information of taxon;    69;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    70;H-3448
+Other information of taxon;    70;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    71;H-4230
+Other information of taxon;    71;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    72;H-3616
+Other information of taxon;    72;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    73;H-3858
+Other information of taxon;    73;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    74;H-3164
+Other information of taxon;    74;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    75;H-3887
+Other information of taxon;    75;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    76;H-969 
+Other information of taxon;    76;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    77;H-869 
+Other information of taxon;    77;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    78;H-1094
+Other information of taxon;    78;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    79;H-753 
+Other information of taxon;    79;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    80;H-1509
+Other information of taxon;    80;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    81;H-3686
+Other information of taxon;    81;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    82;H-2407
+Other information of taxon;    82;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    83;H-3747
+Other information of taxon;    83;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    84;H-3927
+Other information of taxon;    84;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    85;H-511 
+Other information of taxon;    85;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    86;H-2775
+Other information of taxon;    86;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    87;H-430 
+Other information of taxon;    87;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    88;H-1990
+Other information of taxon;    88;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    89;H-2797
+Other information of taxon;    89;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    90;H-2724
+Other information of taxon;    90;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    91;H-787 
+Other information of taxon;    91;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    92;H-1011
+Other information of taxon;    92;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    93;H-2480
+Other information of taxon;    93;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    94;H-4663
+Other information of taxon;    94;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    95;H-1752
+Other information of taxon;    95;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    96;H-2994
+Other information of taxon;    96;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    97;H-374 
+Other information of taxon;    97;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    98;H-2246
+Other information of taxon;    98;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;    99;H-1444
+Other information of taxon;    99;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   100;H-5200
+Other information of taxon;   100;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   101;H-1285
+Other information of taxon;   101;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   102;H-1310
+Other information of taxon;   102;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   103;H-45  
+Other information of taxon;   103;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   104;H-5867
+Other information of taxon;   104;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   105;H-1910
+Other information of taxon;   105;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   106;H-3819
+Other information of taxon;   106;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   107;H-184 
+Other information of taxon;   107;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   108;H-873 
+Other information of taxon;   108;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   109;H-1101
+Other information of taxon;   109;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   110;H-3510
+Other information of taxon;   110;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   111;H-2403
+Other information of taxon;   111;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   112;H-2793
+Other information of taxon;   112;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   113;H-2366
+Other information of taxon;   113;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   114;H-3178
+Other information of taxon;   114;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   115;H-1506
+Other information of taxon;   115;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   116;H-2961
+Other information of taxon;   116;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   117;H-4405
+Other information of taxon;   117;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   118;H-5677
+Other information of taxon;   118;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   119;H-333 
+Other information of taxon;   119;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   120;H-940 
+Other information of taxon;   120;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   121;H-3255
+Other information of taxon;   121;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   122;H-884 
+Other information of taxon;   122;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   123;H-3701
+Other information of taxon;   123;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   124;H-2559
+Other information of taxon;   124;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   125;H-1895
+Other information of taxon;   125;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   126;H-2814
+Other information of taxon;   126;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   127;H-1897
+Other information of taxon;   127;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   128;H-4150
+Other information of taxon;   128;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   129;H-1375
+Other information of taxon;   129;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   130;H-4706
+Other information of taxon;   130;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   131;H-1889
+Other information of taxon;   131;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   132;H-2373
+Other information of taxon;   132;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   133;H-216 
+Other information of taxon;   133;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   134;H-2204
+Other information of taxon;   134;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   135;H-560 
+Other information of taxon;   135;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   136;H-5066
+Other information of taxon;   136;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   137;H-289 
+Other information of taxon;   137;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   138;H-745 
+Other information of taxon;   138;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   139;H-4812
+Other information of taxon;   139;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   140;H-3162
+Other information of taxon;   140;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   141;H-3710
+Other information of taxon;   141;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   142;H-258 
+Other information of taxon;   142;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   143;H-2241
+Other information of taxon;   143;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   144;H-535 
+Other information of taxon;   144;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   145;H-2513
+Other information of taxon;   145;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   146;H-4653
+Other information of taxon;   146;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   147;H-2632
+Other information of taxon;   147;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   148;H-4414
+Other information of taxon;   148;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   149;H-2446
+Other information of taxon;   149;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   150;H-2169
+Other information of taxon;   150;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   151;H-2852
+Other information of taxon;   151;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   152;H-94  
+Other information of taxon;   152;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   153;H-309 
+Other information of taxon;   153;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   154;H-2406
+Other information of taxon;   154;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   155;H-1600
+Other information of taxon;   155;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   156;H-5289
+Other information of taxon;   156;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   157;H-2142
+Other information of taxon;   157;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   158;H-2927
+Other information of taxon;   158;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   159;H-1900
+Other information of taxon;   159;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   160;H-1371
+Other information of taxon;   160;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   161;H-2707
+Other information of taxon;   161;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   162;H-1977
+Other information of taxon;   162;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   163;H-3468
+Other information of taxon;   163;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   164;H-4498
+Other information of taxon;   164;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   165;H-1724
+Other information of taxon;   165;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   166;H-5972
+Other information of taxon;   166;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   167;H-3933
+Other information of taxon;   167;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   168;H-4265
+Other information of taxon;   168;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   169;H-2259
+Other information of taxon;   169;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   170;H-3709
+Other information of taxon;   170;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   171;H-353 
+Other information of taxon;   171;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   172;H-619 
+Other information of taxon;   172;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   173;H-987 
+Other information of taxon;   173;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   174;H-1991
+Other information of taxon;   174;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   175;H-2532
+Other information of taxon;   175;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   176;H-2540
+Other information of taxon;   176;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   177;H-724 
+Other information of taxon;   177;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   178;H-3247
+Other information of taxon;   178;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   179;H-1808
+Other information of taxon;   179;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   180;H-3078
+Other information of taxon;   180;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   181;H-1189
+Other information of taxon;   181;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   182;H-2704
+Other information of taxon;   182;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   183;H-3304
+Other information of taxon;   183;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   184;H-1426
+Other information of taxon;   184;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   185;H-3657
+Other information of taxon;   185;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   186;H-1775
+Other information of taxon;   186;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   187;H-4115
+Other information of taxon;   187;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   188;H-1341
+Other information of taxon;   188;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   189;H-1462
+Other information of taxon;   189;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   190;H-3823
+Other information of taxon;   190;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   191;H-4081
+Other information of taxon;   191;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   192;H-1917
+Other information of taxon;   192;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   193;H-3591
+Other information of taxon;   193;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   194;H-3214
+Other information of taxon;   194;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   195;H-985 
+Other information of taxon;   195;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   196;H-782 
+Other information of taxon;   196;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   197;H-1763
+Other information of taxon;   197;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   198;H-2322
+Other information of taxon;   198;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   199;H-1794
+Other information of taxon;   199;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
+Mapping of taxon;   200;H-2370
+Other information of taxon;   200;Phenotype;;Geography;;Lineage;;Group1;;Group2;;Group3;;
